@@ -1,0 +1,6 @@
+#github
+Host github.com
+HostName github.com
+PreferredAuthentications publickey
+IdentityDile ~/.ssh/test
+#注释
